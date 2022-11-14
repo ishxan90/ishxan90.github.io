@@ -140,9 +140,9 @@ hr {
 .navbar-default .navbar-toggle:hover > .icon-bar {
   background-color: #608dfd;
 }
-.section-title {
+/* .section-title {
   margin-bottom: 70px;
-}
+} */
 .section-title h2 {
   position: relative;
   margin-top: 10px;
@@ -350,7 +350,7 @@ header .intro-text {
   color: rgba(255, 255, 255, 0.75);
 }
 #sertificates .service-desc {
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 /* Gallery Section */
 #portfolio {
